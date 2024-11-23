@@ -1,0 +1,88 @@
+{
+    "experiments": [
+        {
+            "id": 1,
+            "title": "Periodicities",
+            "description": "Aligning to start and end of timeframes that matter. What emerges as patterns from data? What emerges from a conversation about what matters?",
+            "icon":""
+        },
+        {
+            "id": 2,
+            "title": "Birdseye view of the company",
+            "description": "An intelligent dashboard, customized to the viewer (MoMA++, for Google alums).",
+            "icon":""
+        },
+        {
+            "id": 3,
+            "title": "Quick archive",
+            "description": "Send anything to Pi (email forward, Slack DM, drop into Pi chat) and tell it where to go, and it puts it into a form that can be saved to that spot in Google Drive.",
+            "icon":""
+        },
+        {
+            "id": 4,
+            "title": "Off the Record mode",
+            "description": "Be able to start and end a conversation with the LLM without it remembering your inputs to recall later on, but with it still remembering who you are and your preferences.",
+            "icon":""
+        },
+        {
+            "id": 5,
+            "title": "Crowdsourcery",
+            "description": "LLM connects you with internal experts or people that otherwise have accounts of a particular role with a particular product/service.",
+            "icon":""
+        },
+        {
+            "id": 6,
+            "title": "Who's in charge?",
+            "description": "LLM helps you find people with the right access control to make changes to things AND the right chain of command for requesting it.",
+            "icon":""
+        },
+        {
+            "id": 7,
+            "title": "Known unknowns",
+            "description": "What areas of the business data seem to be missing? How to fill the holes of insufficient data and understand what's missing.",
+            "icon":""
+        },
+        {
+            "id": 8,
+            "title": "Let's pretend",
+            "description": "Have the LLM give us an ongoing reminder of who they are pretending to be when they respond.",
+            "icon":""
+        },
+        {
+            "id": 9,
+            "title": "Confidence",
+            "description": "Explore which ways the LLM can indicate confidence based on reproducibility/traceable sources of responses.",
+            "icon":""
+        },
+        {
+            "id": 10,
+            "title": "The AI doesn’t know",
+            "description": "In low confidence cases, can it suggest other directions of higher confidence?",
+            "icon":""
+        },
+        {
+            "id": 11,
+            "title": "This is fine",
+            "description": "Can it express judgment about whether an input reflects something normal (and context of what normal means), or something abnormal (and next steps to investigate)?",
+            "icon":""
+        },
+        {
+            "id": 12,
+            "title": "Who's who?",
+            "description": "Generate an ad-hoc historical org chart over time (group people by function) based on artifacts in intranet, kinda like band timelines in Wikipedia.",
+            "icon":""
+        },
+        {
+            "id": 13,
+            "title": "Latency",
+            "description": "Ask Pi: 'Why is there latency?'",
+            "icon":""
+        },
+        {
+            "id": 14,
+            "title": "Cohorts/frequency distribution of Pi users",
+            "description": "Analyze usage patterns to understand user cohorts and frequency distribution.",
+            "icon":""
+        }
+      ]
+}

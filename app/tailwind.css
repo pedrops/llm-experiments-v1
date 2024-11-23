@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-white dark:bg-primary-bg bg-no-repeat bg-bottom w-full h-full;
+
+  background-image: url('/inflection-bg.svg');
+  background-attachment: fixed;
+  background-size: 300%;
+
+  /* For medium screens (md and above) */
+  @media (min-width: 768px) {
+    html,
+    body {
+      background-size: 120%;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+}
